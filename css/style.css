@@ -1,0 +1,148 @@
+.container {
+	width: 1700px;
+	height: 50px;
+	margin: 0 auto;
+	margin-top: 64px;
+	font-family: 'Sofia Sans Condensed';
+}
+.homeinfo {
+	display: flex;
+	justify-content: space-between;
+	font-size: 32px;
+}
+.home {
+	margin-right: 45px;
+    color:#3D37F1;
+}
+.navul {
+    display: flex;
+	font-size: 20px;
+	margin-right: 65px;
+	margin-top: 15px;
+}
+.hometext {
+	margin-top: 230px;
+	display: flex;
+	height: 559px
+}
+.text1 {
+	font-size: 78px;
+	color: #534D4D;
+}
+.hometext1 {
+	width: 600px;
+}
+.text2 {
+    width: 600px;
+	height: 105px;
+	font-size: 18px;
+	margin-top: 30px;
+    color: #534D4D;
+}
+.homeimage {
+    display: flex;
+	width: 800px;
+	height: 450px;
+	margin-left: 400px;
+}
+.bottom-box {
+	width: 1171px;
+	height: 1221px;
+	margin: 0 auto;
+	position: relative;
+	top: 820px;
+	font-family: 'Sofia Sans Condensed';
+}
+.headerbox {
+	width: 1171px;
+	height: 186px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.txt1 {
+	font-size: 20px;
+	color: #3D37F1;
+	margin-bottom: 12px;
+	font-family: 'Sofia Sans';
+}
+.txt2 {
+	font-size: 40px;
+	color: #5A5454;
+	margin-bottom: 20px;
+	font-family: 'Sofia Sans';
+}
+.txt3 {
+	width: 712px;
+	height: 85px;
+	color: #747474;
+	font-size: 18px;
+	line-height: 28px;
+	text-align: center;
+	text-indent: 68px;
+	font-family: 'Sofia Sans';
+}
+.blockdiv {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 1169px;
+	height: 1094px;
+	margin-top: 60px;
+}
+.blocks {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: 370px;
+	height: 451px;
+	background: #FBBA77;
+}
+.blockimgs {
+	margin-top: 88px;
+	margin-bottom: 55px;
+}
+.blockinfo {
+	font-size: 22px;
+	color: #FFFFFF;
+	margin-bottom: 12.1px;
+	font-family: 'Sofia Sans';
+}
+.blockinfo-text {
+	width: 328px;
+	height: 62px;
+	text-align: center;
+	text-indent: 20px;
+	line-height: 26px;
+	font-size: 16px;
+	color: #FFFFFF;
+	margin-bottom: 12px;
+}
+.readmore {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 131px;
+	height: 45px;
+	border-radius: 23px;
+	color: #3D37F1;
+	background: white;
+}
+.blocks:nth-child(2){
+	background: #41EAE3;
+}
+.blocks:nth-child(3) {
+	background:#69529F ;
+}
+.blocks:nth-child(4) {
+	background: #4386D2;
+	margin-top: 60px;
+}
+.blocks:nth-child(5) {
+	background: #A5A2F6;
+	margin-top: 60px;
+}
+.blocks:nth-child(6) {
+	background: #FF8088;
+	margin-top: 60px;
+}
